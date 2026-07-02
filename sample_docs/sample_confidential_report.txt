@@ -1,0 +1,32 @@
+INTERNAL USE ONLY - CONFIDENTIAL
+Quarterly Vendor Payment Reconciliation - FY26 Q1
+Prepared by: Finance Operations, Acme Fintech Pvt Ltd
+
+Do not distribute outside the finance department.
+
+1. Vendor contact escalations
+   - Rakesh Sharma (rakesh.sharma@acmefintech.example.com), mobile +91 98765-43210
+   - Priya Nair (priya.nair@vendorpay.example.in), contact 0 91234 56789
+
+2. Payment instrument issues
+   The corporate card ending in the following number was flagged for
+   duplicate charges: 4111 1111 1111 1111 (expiry 08/27).
+   A refund was processed to card 5500 0055 5555 5559.
+
+3. KYC records pending verification
+   - Employee EMP-40312: Aadhaar 2345 6789 0124, PAN ABCPE1234F
+   - Employee EMP-40377: Aadhaar 7890 1234 5674, PAN AAACR5055K
+
+4. Settlement account details
+   Primary settlement bank account: 123456789012 (IFSC HDFC0001234),
+   Acme Fintech current account, Mumbai main branch.
+
+5. Integration credentials (TO BE ROTATED - flagged by security)
+   payments_api_key = sk-live-9hT2xKq8vRw4mZn7pLd3fGb6
+   aws_access_key: AKIAIOSFODNN7EXAMPLE
+   db_password = Pr0d#Sett1e!2026
+
+6. Notes
+   The merger discussions with Northbridge Capital remain strictly private
+   until the embargo lifts. Salary revisions for the payments team are
+   attached in the compensation annexure.

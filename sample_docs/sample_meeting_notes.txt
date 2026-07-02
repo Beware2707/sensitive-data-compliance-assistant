@@ -1,0 +1,14 @@
+Team Standup Notes - 30 June 2026
+
+Attendees: platform team.
+
+- Sprint 42 velocity was 38 points, slightly above average.
+- The staging deployment pipeline is green again after the cache fix.
+- Documentation day is scheduled for Friday; everyone picks one module.
+- Reminder: the office cafeteria is closed on Thursday for maintenance.
+- Next retro will be held in the large conference room.
+
+Action items:
+1. Update the onboarding guide screenshots.
+2. Close stale tickets older than 90 days.
+3. Book the demo room for the sprint review.

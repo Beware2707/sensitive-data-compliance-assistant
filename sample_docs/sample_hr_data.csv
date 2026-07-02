@@ -1,0 +1,4 @@
+employee_id,name,email,mobile,aadhaar,pan,bank_account,ifsc,salary_ctc
+EMP-1001,Ananya Iyer,ananya.iyer@example.com,+91 98111-22334,5647 3829 1015,BXYPI4321Q,987654321001,ICIC0004321,1450000
+EMP-1002,Vikram Rao,vikram.rao@example.com,+91 97222-33445,2345 6789 0124,ADGPR8765L,987654321002,SBIN0009876,1820000
+EMP-1003,Sara Thomas,sara.thomas@example.com,+91 96333-44556,7890 1234 5674,AFZPT2468M,987654321003,HDFC0001234,1290000
